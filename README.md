@@ -1,2 +1,3 @@
-# other-artwork
-Non-team made wallpapers used in Nexa Linux
+# Credits
+
+<a href="https://files.enderman.ch/wallpapers/">Endermanch</a> for wallpapers in endermanch/
